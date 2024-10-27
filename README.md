@@ -61,6 +61,3 @@ To run this project, ensure you have the following libraries installed:
 pip install matplotlib pandas numpy scipy
 ```
 
-## Usage
-
-Run the analysis script to visualize data, analyze FHR, and detect UC peaks. Make sure to have the FHR and UC data available in the correct format.
